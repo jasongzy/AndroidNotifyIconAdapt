@@ -1,4 +1,18 @@
 {
+  "com.nutomic.syncthingandroid": {
+    "label": "Syncthing",
+    "format": "png",
+    "color": "#1BA3D4",
+    "overlay": true,
+    "contributors": "jasongzy"
+  },
+  "com.keramidas.TitaniumBackup": {
+    "label": "钛备份",
+    "format": "png",
+    "color": "#FFC107",
+    "overlay": true,
+    "contributors": "jasongzy"
+  },
   "com.tencent.mobileqq": {
     "label": "QQ",
     "format": "png",
